@@ -34,3 +34,7 @@
 
  This project helped me understand the complete workflow of sentiment analysis — from raw text to final predictions and evaluation. It improved my skills in Python, machine learning, and data visualization, and
  gave me hands-on experience with real-world data and challenges in NLP.
+
+ # OUTPUT:
+
+ <img width="569" height="402" alt="Image" src="https://github.com/user-attachments/assets/9faa6287-42ee-4543-9da7-d065fe3e6fa0" />
